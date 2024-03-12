@@ -1,0 +1,10 @@
+ percentage_spanish_na 
+-----------------------
+             111946176
+(1 row)
+
+ percentage_spanish_eu 
+-----------------------
+                236903
+(1 row)
+

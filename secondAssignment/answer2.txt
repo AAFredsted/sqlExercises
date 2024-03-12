@@ -1,0 +1,10 @@
+ numcountries 
+--------------
+            4
+(1 row)
+
+ count 
+-------
+     4
+(1 row)
+

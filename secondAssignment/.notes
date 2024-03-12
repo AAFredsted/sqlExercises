@@ -1,0 +1,1 @@
+psql -U postgres -d HW2-DB -f HW2-DB.sql
